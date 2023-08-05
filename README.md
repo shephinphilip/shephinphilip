@@ -30,11 +30,10 @@
 - 🛠️ During a 3-month backend development internship, I honed my skills in Node.js, Sequelize, and PostgreSQL, contributing to the backend infrastructure of a dynamic project.
 
 ## Freelancing
-machine learning projects
 
-Client :  Ivy 
+Client :  Ivy \n
 project name :  Ivy Github code
 
 ## Let's Connect!
 
-If you're seeking a motivated team player with a solid background in machine learning, deep learning, and data analytics, I'm here to bring my expertise and enthusiasm to the table. Feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shephinphilip/). Let's collaborate and innovate together! 🌟
+If you're seeking a motivated team player with a solid background in machine learning, deep learning, and data analytics, I'm here to bring my expertise and enthusiasm to the table. Feel free to reach out to me at [Click here to connect me](mailto:shephinphilip786@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/shephin-philip-54b371205/). Let's collaborate and innovate together! 🌟
