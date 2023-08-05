@@ -30,9 +30,11 @@
 - 🛠️ During a 3-month backend development internship, I honed my skills in Node.js, Sequelize, and PostgreSQL, contributing to the backend infrastructure of a dynamic project.
 
 ## Freelancing
+Client: Ivy
+Project Name: Ivy GitHub Codebase
 
-Client :  Ivy \n
-project name :  Ivy Github code
+Looking for exceptional project execution? I've collaborated with clients like Ivy to deliver top-tier results. Whether you have a project in mind or are looking to kick-start a transformative idea, I'm here to make it happen. Let's connect through my [Upwork profile](https://www.upwork.com/freelancers/~019534f7b9e663884d) and turn your vision into reality! 🚀
+
 
 ## Let's Connect!
 
