@@ -4,13 +4,11 @@
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-## GitHub Contribution
+
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 
-
-
-
+## GitHub Contribution
 
 # About Me
 
