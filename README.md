@@ -10,12 +10,16 @@
 
 
 <div>
-  
+  <p>
+    
 # About Me
 
-Hey there! I'm Shephin Philip, your friendly neighborhood problem-solver, coding enthusiast, and undercover meme generator. I'm on a mission to turn challenges into code-tastic solutions. Whether it's decoding Indian Sign Language or cracking the psychological code of serial killers (don't worry, I'm just a digital detective), I'm all in. I sprinkle Python, TensorFlow, and Keras magic to make data sing and dance
+Hey there! I'm Shephin Philip, your friendly neighborhood problem-solver, coding enthusiast, and undercover meme generator. I'm on a mission to turn challenges into code-tastic solutions. Whether it's decoding Indian Sign Language or cracking the psychological code of serial killers (don't worry, I'm just a digital detective), I'm all in. I sprinkle Python, TensorFlow, and Keras magic to make data sing and dance.
+
+ </p>
 
 </div>
+
 # Internship Experience
 
 🛠️ During a 3-month backend development internship, I honed my skills in Node.js, Sequelize, and PostgreSQL, contributing to the backend infrastructure of a dynamic project.
