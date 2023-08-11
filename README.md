@@ -8,11 +8,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 
-<br>
 
-## GitHub Contributions
+## GitHub Contribution
 
-<p align="center" bottom = 5px>
+<p align="center" >
   <img src="https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
 
