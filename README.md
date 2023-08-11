@@ -1,15 +1,15 @@
-##Shephin Philip - Machine Learning Maestro
+# Shephin Philip - Machine Learning Maestro
 
 👋 Hello there! I'm Shephin Philip, a passionate computer scientist with a flair for exploring the realms of Machine Learning, Deep Learning, and Data Analytics. My academic journey has been a thrilling adventure, where I've taken on diverse projects and gained invaluable experiences.
 
-##About Me
+# About Me
 
 🎓 Graduated with an MSc in Computer Science from Kannur University, achieving a commendable CGPA of 78.8%.
 🚀 I'm fervently devoted to the fields of Machine Learning, Deep Learning, and Data Analytics, constantly seeking new ways to apply these technologies to solve real-world challenges.
 🔍 My project spectrum is quite extensive, ranging from creating an Indian Sign Language Detection system using Convolutional Neural Networks to investigating the behavioral patterns of serial killers. Additionally, I've dabbled in crafting a Clothing Similarity Search algorithm and developing an AI Chatbot Chrome Extension powered by OpenAI API.
 🔬 I have a penchant for unraveling the potential of data through statistical analysis, visualization, and interpretation.
 
-#Recent Projects
+# Recent Projects
 AI Chatbot Chrome Extension
 Created an intuitive Chrome Extension that offers real-time conversations with an AI-powered chatbot.
 Seamlessly integrates OpenAI API to tackle a wide array of user queries on various subjects.
@@ -30,9 +30,6 @@ Identifies repositories with the highest technical complexity based on code asse
 ![](https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shephinphilip&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shephinphilip&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true)
