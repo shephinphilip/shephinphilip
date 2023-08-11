@@ -1,7 +1,9 @@
-#Shephin Philip - Machine Learning Maestro
+##Shephin Philip - Machine Learning Maestro
+
 👋 Hello there! I'm Shephin Philip, a passionate computer scientist with a flair for exploring the realms of Machine Learning, Deep Learning, and Data Analytics. My academic journey has been a thrilling adventure, where I've taken on diverse projects and gained invaluable experiences.
 
-#About Me
+##About Me
+
 🎓 Graduated with an MSc in Computer Science from Kannur University, achieving a commendable CGPA of 78.8%.
 🚀 I'm fervently devoted to the fields of Machine Learning, Deep Learning, and Data Analytics, constantly seeking new ways to apply these technologies to solve real-world challenges.
 🔍 My project spectrum is quite extensive, ranging from creating an Indian Sign Language Detection system using Convolutional Neural Networks to investigating the behavioral patterns of serial killers. Additionally, I've dabbled in crafting a Clothing Similarity Search algorithm and developing an AI Chatbot Chrome Extension powered by OpenAI API.
