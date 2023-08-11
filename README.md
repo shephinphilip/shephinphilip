@@ -8,7 +8,7 @@
 </div>
 
 ## GitHub Contributions
-
+<br>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </p>
