@@ -2,7 +2,7 @@
 
 👋 Hello there! I'm Shephin Philip, a passionate computer scientist with a flair for exploring the realms of Machine Learning, Deep Learning, and Data Analytics. My academic journey has been a thrilling adventure, where I've taken on diverse projects and gained invaluable experiences.
 
-![](https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true) [](https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true)! [](https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # About Me
 
