@@ -4,16 +4,13 @@
 
 <div>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-
+## GitHub Contribution
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </div>
 
 
-## GitHub Contribution
 
-<p align="center" >
-  <img src="https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true">
-</p>
+
 
 # About Me
 
@@ -34,3 +31,6 @@ Hey there! I'm Shephin Philip, your friendly neighborhood problem-solver, coding
 
 ### 🔝 Top Contributed Repo
 
+<p align="center" >
+  <img src="https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true">
+</p>
