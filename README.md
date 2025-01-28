@@ -3,7 +3,7 @@
 # 🌟 Shephin Philip
 ### *Transforming Ideas into Intelligent Solutions*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shephin-philip-54b371205) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019534f7b9e663884d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shephin-philip-54b371205/) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019534f7b9e663884d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~019534f7b9e663884d%2Fprofile)
 
 </div>
 
@@ -90,8 +90,8 @@ I believe in the transformative power of AI to solve real-world challenges. My a
 
 I'm always excited to discuss AI innovation, potential collaborations, or how we can work together to solve interesting challenges. Feel free to reach out through:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shephin-philip-54b371205)
-- 🌐 [Upwork](https://www.upwork.com/freelancers/~019534f7b9e663884d)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shephin-philip-54b371205/)
+- 🌐 [Upwork](https://www.upwork.com/freelancers/~019534f7b9e663884d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~019534f7b9e663884d%2Fprofile)
 
 ---
 
