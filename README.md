@@ -1,102 +1,115 @@
 <div align="center">
   
-# 🌟 Shephin Philip
-### *Transforming Ideas into Intelligent Solutions*
+# 🌟 Shephin Philip  
+### *Building Intelligent Agents & Scalable AI Systems*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shephin-philip-54b371205/) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019534f7b9e663884d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~019534f7b9e663884d%2Fprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shephin-philip-54b371205/) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019534f7b9e663884d)
 
 </div>
 
-## 🤖 The Innovation Journey
+## 🤖 About Me
 
-Greetings! I'm an AI Engineer with a passion for pushing the boundaries of what's possible with artificial intelligence. My expertise spans machine learning, deep learning, and data analytics, but what truly drives me is the art of solving complex problems that create meaningful impact.
+Hi there 👋 I’m **Shephin Philip**, an **AI Engineer** passionate about **LLMs, Agentic AI, and enterprise-grade Generative AI solutions**.  
+I specialize in **building AI agents, RAG pipelines, and scalable backend integrations** that solve complex, real-world problems. My journey blends **hands-on engineering** with a drive to innovate and bring ideas to production.
 
 <div align="center">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shephinphilip&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </div>
 
-<br clear="both">
-<br>
+<br clear="both"><br>
 
-## 🎯 Professional Impact
+## 🎯 Professional Experience
 
-### Lead AI Developer | Omni Thrive Solutions
-*Orchestrating AI Innovation (Oct 2023 – Present)*
-- Pioneering generative AI solutions in production environments.
-- Architecting autonomous systems for market deployment.
-- Leading technical presentations on AI research and performance metrics.
+### Generative AI Engineer | MLAI Technologies  
+*Enterprise AI Solutions (Apr 2025 – Present)*  
+- Built **RAG-powered chatbots** with Hugging Face + FAISS; improved groundedness via rerankers.  
+- Integrated **Azure OpenAI Services** into enterprise pipelines with **FastAPI + Streamlit**.  
+- Designed **evaluation harnesses** (latency, groundedness, recall) to monitor deployed LLMs.  
 
-### Backend Developer | Arvension Technologies
-*Building Robust Foundations (May 2022 – Aug 2022)*
-- Engineered scalable applications using the Node.js ecosystem.
-- Developed a comprehensive CRM system enhancing operational efficiency.
+### Lead AI Developer | Omni Thrive Solutions  
+*Driving AI Innovation (Oct 2023 – Mar 2025)*  
+- Developed and fine-tuned **LLMs (GPT, BERT, LLaMA)** for NLP workflows.  
+- Orchestrated **multi-agent systems** using **LangGraph & AutoGen** for task automation.  
+- Deployed containerized services on **Azure, AWS, and GCP** with Docker/Kubernetes.  
 
-### AI Freelance Innovation | Ionic E-commerce
-*Delivering Specialized Solutions (Aug 2023)*
-- Created an advanced LLM-powered search engine leveraging OpenAI & LangChain.
-- Implemented Flask backend optimizing e-commerce search capabilities.
+### Freelance AI Developer | Ionic E-commerce  
+*AI-Powered E-commerce (Feb 2024 – Mar 2024)*  
+- Delivered an **Agentic AI system** with LangChain for product search & recommendations.  
+- Built a **Flask backend** that connected frontend queries to LLM agents in real time.  
 
-## 🏆 Achievements That Matter
+---
 
-- 🥇 **Innovation Recognition**: Top 10 finalist in Mercor TextBase AI ChatBot Challenge (2023).
-- 🖐️ **Social Impact**: Developed real-time Indian Sign Language recognition using CNNs.
-- 🚀 **Technical Leadership**: Successfully deployed multiple AI solutions in production.
+## 🏆 Key Highlights  
 
-## 💻 Technical Arsenal
+- 🥇 **Top 10 Finalist** – Mercor TextBase AI ChatBot Challenge (2023).  
+- 🚀 **Production Impact** – Deployed multiple **LLM + RAG pipelines** powering enterprise use cases.  
+- 🖐️ **Social Innovation** – Built a real-time **Indian Sign Language recognition system** using CNNs.  
+
+---
+
+## 💻 Tech Stack  
 
 <div align="center">
 
-### Core Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Programming & Backend  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 
-### AI & ML Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+### AI & ML Frameworks  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)  
 
-### Backend & Databases
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Databases & Cloud  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### DevOps & CI/CD  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 
 </div>
 
-## 📊 Impact Through Numbers
+---
+
+## 📊 GitHub Metrics  
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shephinphilip&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shephinphilip&theme=dark&hide_border=false)  
 
-### 🔝 Top Contributed Repositories
+### 🔝 Top Repositories  
 <img src="https://github-contributor-stats.vercel.app/api?username=shephinphilip&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributions">
 
 </div>
 
-## 🌱 Philosophy & Vision
+---
 
-I believe in the transformative power of AI to solve real-world challenges. My approach combines technical excellence with strategic thinking, ensuring solutions that not only work but create lasting value. As an AI engineer, I'm committed to:
+## 🌱 Philosophy  
 
-- 🎯 Delivering production-ready AI solutions that scale.
-- 🤝 Fostering collaboration and knowledge sharing.
-- 📈 Driving innovation through data-driven decisions.
+I believe in the **transformative power of AI agents** — moving beyond models to **autonomous systems** that solve real-world business problems.  
+My guiding principles:  
 
-## 🤝 Let's Connect
+- 🎯 Deliver **scalable AI systems** that make it to production.  
+- 🤝 Foster **collaboration & mentorship** within teams.  
+- 📈 Push the frontier of **LLMs, RAG, and multi-agent orchestration**.  
 
-I'm always excited to discuss AI innovation, potential collaborations, or how we can work together to solve interesting challenges. Feel free to reach out through:
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shephin-philip-54b371205/)
-- 🌐 [Upwork](https://www.upwork.com/freelancers/~019534f7b9e663884d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~019534f7b9e663884d%2Fprofile)
+## 🤝 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shephin-philip-54b371205/)  
+- 🌐 [Upwork](https://www.upwork.com/freelancers/~019534f7b9e663884d)  
 
 ---
 
 <div align="center">
   
-*"In the realm of AI, every challenge is an opportunity to innovate, and every solution is a step toward a more intelligent future."*
+*"In AI, building agents that act, adapt, and scale is the next step toward a more intelligent future."*  
 
 </div>
